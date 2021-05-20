@@ -14,4 +14,4 @@ Gradio is useful for:
 
 ## How it works?
 
-![picture alt](https://github.com/skappal7/PyCaret-Gradio-Prediction-App/blob/main/PyCaretGradio.png)"PyCaret Gradio Integration")
+![picture alt](https://github.com/skappal7/PyCaret-Gradio-Prediction-App/blob/main/PyCaretGradio.png)
