@@ -7,7 +7,8 @@ This app is created using PyCaret low code machine learning library and Gradio a
 Gradio is an open-source Python library for creating customizable UI components around your machine learning models. Gradio makes it easy for you to “play around” with your model in your browser by dragging and dropping in your own images, pasting your own text, recording your own voice, etc., and seeing what the model outputs.
 
 Gradio is useful for:
-**Creating quick demos around your trained ML pipelines
-**Getting live feedback on model performance
-**Debugging your model interactively during development
+
+* Creating quick demos around your trained ML pipelines
+* Getting live feedback on model performance
+* Debugging your model interactively during development
 
