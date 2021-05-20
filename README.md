@@ -13,3 +13,5 @@ Gradio is useful for:
 * Debugging your model interactively during development
 
 ## How it works?
+
+![picture alt](https://github.com/skappal7/PyCaret-Gradio-Prediction-App/blob/main/PyCaretGradio.png/450x400 "PyCaret Gradio Integration")
