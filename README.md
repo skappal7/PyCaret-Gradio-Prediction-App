@@ -12,3 +12,4 @@ Gradio is useful for:
 * Getting live feedback on model performance
 * Debugging your model interactively during development
 
+## How it works?
