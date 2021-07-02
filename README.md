@@ -1,7 +1,7 @@
 # PyCaret-Gradio-Prediction-App 🔮
 This app is created using PyCaret low code machine learning library and Gradio an open source and easy-to-use UI for your ML model, function, or API with only a few lines of code. Integrate directly into your Python notebook, or share a link with anyone.
 
-The video belows shows a Heart Failure prediction (1 = Stroke & 0 = No Stroke) based on the selections made by the users. Gradio and PyCaret can be used to create compelling Ml PoCs. 
+The video below shows a Heart Failure prediction (1 = Stroke & 0 = No Stroke) based on the selections made by the users. Gradio and PyCaret can be used to create compelling Ml PoCs. 
 
 ![Alt Text](https://github.com/skappal7/PyCaret-Gradio-Prediction-App/blob/main/PyCaret%20Gradio.gif)
 
